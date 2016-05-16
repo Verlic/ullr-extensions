@@ -1,0 +1,15 @@
+{
+  "name": "ullr",
+  "script": "index.js",
+  "actions": [
+    {
+      "function": "ciao",
+      "aliases": ["ciao ullr"],
+      "acls": {
+        "dm": true,
+        "channels": [ "gynoid_manage"]
+      },
+      "premessage": "Looking a nice goodbye phrase..."
+    }
+  ]
+}
