@@ -4,7 +4,7 @@
   "actions": [
     {
       "function": "ciao",
-      "aliases": ["ciao ullr"],
+      "aliases": ["ciao"],
       "acls": {
         "dm": true,
         "channels": [ "gynoid_manage"]
